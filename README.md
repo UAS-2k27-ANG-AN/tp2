@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TP - Routage Angular : MiniSite
 
 Ce projet a été réalisé conformément au sujet du **TP - Routage Angular**.
@@ -79,3 +80,6 @@ minisite/
 ### 5. Quelle est la différence entre navigation déclarative et programmée ?
 - **Navigation déclarative** : Elle est écrite dans le fichier HTML à l'aide de directives comme `[routerLink]`. L'utilisateur clique sur un lien et navigue directement.
 - **Navigation programmée** : Elle est écrite dans le code TypeScript (`.ts`) à l'aide du service `Router` (`router.navigate(...)`). Le développeur a le contrôle total pour exécuter du code avant de déclencher la navigation (ex. sauvegarder des données, appeler une API, tester si l'utilisateur est connecté).
+=======
+# tp2
+>>>>>>> ac0635a2ec23207606ebf0b0baab60554bcf1bfc
